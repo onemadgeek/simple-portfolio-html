@@ -4,7 +4,10 @@ This is my personnal portfolio simple html website.
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+Fork this project and running on your local machine for doing changes and make your simple portfolio page simple and easy.
+Tip: Host it on github pages
+
+[![Host Simple Html Portfolio Project On Github Pages](http://imgur.com/a/1plJk)](https://www.youtube.com/watch?v=3_oROxfnAxY)
 
 ### Credits
 
@@ -31,10 +34,6 @@ Fork this git and change text make your own portfolio :)
 ## Authors
 
 * **Arun Prakash** - *Initial work* - [Arun Cvf](https://github.com/onemadgeek)
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
 ## Acknowledgments
 
