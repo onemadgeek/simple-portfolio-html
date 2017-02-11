@@ -15,6 +15,11 @@ https://github.com/aziz/tmTheme-Editor
 ```
 
 ### Building Yourself
+```
+NuraSquad.com
+```
+
+* [Nura Squad](//nurasquad.com) - My Simple Portfolio
 
 Fork this git and change text make your own portfolio :)
 
